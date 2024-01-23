@@ -41,7 +41,7 @@ set(CODE_FILES_FW2_WP_KR_LIB_SY
 )
 
 set(CODE_FILES_FW2_WP_KR_LIB_TB
-    ${LIBS_FW2_WRAPPER_CORE_PLATFORM_DIR_SRC}/${TB_KR_THREAD_CPP_DIR}/KrThreadTbl.cpp
+    "${LIBS_FW2_WRAPPER_CORE_PLATFORM_DIR_SRC}/${TB_KR_THREAD_CPP_DIR}/krThreadTbl.cpp"
 )
 
 ## ******************************************************************

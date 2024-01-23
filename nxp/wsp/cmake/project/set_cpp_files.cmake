@@ -26,8 +26,8 @@
 ## LIB CPP FILES Definitions
 
 set(CODE_FILES_FW2_WP_KR_LIB_TB_PLATFORM
-    ${LIBS_FW2_WRAPPER_CORE_PLATFORM_DIR_SRC}/${TB_KR_THREAD_CPP_DIR}/KrThreadCfg.cpp
-    ${LIBS_FW2_WRAPPER_CORE_PLATFORM_DIR_SRC}/${TB_KR_THREAD_CPP_DIR}/KrThreadCfgTbl.cpp
+    ${LIBS_FW2_WRAPPER_CORE_PLATFORM_DIR_SRC}/${TB_KR_THREAD_CPP_DIR}/krThreadCfg.cpp
+    ${LIBS_FW2_WRAPPER_CORE_PLATFORM_DIR_SRC}/${TB_KR_THREAD_CPP_DIR}/krThreadCfgTbl.cpp
 )
 
 ## ******************************************************************
